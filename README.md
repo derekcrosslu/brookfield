@@ -5,7 +5,8 @@
 
 ## Download
 
-``` git clone https://github.com/mobomo/brookfield.git
+``` 
+git clone https://github.com/mobomo/brookfield.git
 ```
 
 
