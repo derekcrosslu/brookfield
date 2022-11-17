@@ -12,7 +12,7 @@ export const FirsthFrame = () => {
   return (
 
          <div className='flex flex-col text-center   items-center  lg:w-4/5 '>
-      <div className='bg-red-300'>{ `${width}--${screenSize}-- ${screenSizeH} --  ${height}`}</div>
+      {/* <div className='bg-red-300'>{ `${width}--${screenSize}-- ${screenSizeH} --  ${height}`}</div> */}
 
         <div className='animate-layerOpacity'><Animation1 /></div>
 
