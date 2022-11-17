@@ -10,18 +10,18 @@ const page3: Record<string, string> = {
 
 
   'mobileW1H1': 'flex justify-center items-center mt-80',
-  'mobileW1H2': 'flex justify-center items-center ',
-  'mobileW1H3': 'flex justify-center items-center ',
-  'mobileW1H4': 'flex justify-center items-center ',
+  'mobileW1H2': 'flex justify-center items-center mt-52',
+  'mobileW1H3': 'flex justify-center items-center mt-52',
+  'mobileW1H4': 'flex justify-center items-center mt-52',
 
     'mobileW2H1': 'flex justify-center items-center',
-  'mobileW2H2': 'flex justify-center items-center ',
-  'mobileW2H3': 'flex justify-center items-center ',
+  'mobileW2H2': 'flex justify-center items-center mt-52',
+  'mobileW2H3': 'flex justify-center items-center mt-52',
   'mobileW2H4': 'flex justify-center items-center mt-60',
 
     'mobileW3H1': 'flex justify-center items-center',
-  'mobileW3H2': 'flex justify-center items-center ',
-  'mobileW3H3': 'flex justify-center items-center ',
+  'mobileW3H2': 'flex justify-center items-center mt-52',
+  'mobileW3H3': 'flex justify-center items-center mt-52',
   'mobileW3H4': 'flex justify-center items-center mt-52',
 
   
