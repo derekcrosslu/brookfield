@@ -126,7 +126,7 @@ const App = () => {
         // className='flex flex-col justify-center items-center mt-100 md:mt-120 lg:mt-140 xl:mt-180 2xl:mt-180  3xl:mt-140   4xl:mt-40 px-2'
         className={twStyles('App','page4').plusHeight}
         // sticky={{ start: 3, end: 4 }}
-      style={{ height: '450px' }}
+     style={{ height: 'fit-content' }}
       >
 
 <ThirdFrame />

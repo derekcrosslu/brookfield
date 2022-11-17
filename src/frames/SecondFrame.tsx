@@ -5,7 +5,7 @@ import Opacity from '../springs/Opacity'
 export const SecondFrame = () => {
   return (
     // mobil:w-3/4
-    <div className='flex flex-col text-center justify-center items-center w-full md:w-auto'>
+    <div className='flex flex-col text-center justify-center items-center w-full md:w-auto '>
      {/* mobil:text-base  mobil:w-3/7 mobil:ml-40 */}
           <div className='flex flex-col gap-3 w-full md:w-auto items-center'>
               <div className='flex text-white text-base md:text-2xl lg:text-3xl max-w-9775 text-center font-semibold font-opensans leading-6 lg:leading-8 sm:text-xl px-8 mb-5'>
@@ -25,9 +25,9 @@ export const SecondFrame = () => {
               </div>
           </div>
 
-          <div className='flex w-full flex-col-reverse md:flex-row justify-center items-center md:gap-10 gap-0 -mt-52 md:py-8 md:-mb-6 lg:-mt-22 md:px-2  '>
+          <div className='flex w-full flex-col-reverse md:flex-row justify-center items-center md:gap-10 gap-0 -mt-52 md:py-8 md:-mb-6 lg:-mt-22 md:px-2 '>
               <div className='flex flex-col   w-full  justify-center text-center md:text-left gap-3  -mt-0 md:mt-0 '>
-                  <div className='text-white md:text-3xl lg:text-4.75xl  lg:font-mediumplus text-xl  font-semibold  font-playfair md:w-full'>
+                  <div className='text-white md:text-3xl lg:text-4.75xl  lg:font-mediumplus text-xl  font-semibold  font-playfair md:w-full '>
                     Two entities, distinct offerings
                   </div>
                   <div className='text-white md:text-base text-xs font-semibold px-10 lg:px-0  md:px-0 '>

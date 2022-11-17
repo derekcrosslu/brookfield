@@ -138,7 +138,7 @@ function useMediaQueries() {
         setScreenSizeH('mobileW3H2')
       }
       else if (height >= screenSizes['mobileH1']) {
-        setScreenSizeH('mobileH1')
+        setScreenSizeH('mobileW3H1')
       }
     }
     else if (width >= screenSizes.mobileW2) {
