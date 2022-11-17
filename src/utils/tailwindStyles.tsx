@@ -112,7 +112,7 @@ const page3: Record<string, string> = {
 const page5: Record<string, string> = {
   
     'mobileW1H1': 'flex text-center justify-center items-center bg-lightBlue flex-row mt-220',
-  'mobileW1H2': 'flex text-center justify-center items-center bg-lightBlue flex-row  mt-200',
+  'mobileW1H2': 'flex text-center justify-center items-center bg-lightBlue flex-row  mt-240',
   'mobileW1H3': 'flex text-center justify-center items-center bg-lightBlue flex-row  mt-150 px-3',
   'mobileW1H4': 'flex text-center justify-center items-center bg-lightBlue flex-row  mt-150 px-3',
 
@@ -162,7 +162,7 @@ const page5: Record<string, string> = {
 const page6: Record<string, string> = {
 
     'mobileW1H1': 'flex text-center justify-center items-center mt-285',
-  'mobileW1H2': 'flex text-center justify-center items-center mt-200',
+  'mobileW1H2': 'flex text-center justify-center items-center mt-290',
   'mobileW1H3': 'flex text-center justify-center items-center mt-265',
   'mobileW1H4': 'flex text-center justify-center items-center mt-245',
 
@@ -212,7 +212,7 @@ const page6: Record<string, string> = {
 const page7: Record<string, string> = {
    
     'mobileW1H1': 'flex flex-col text-center justify-center items-center mb-0 mt-280',
-  'mobileW1H2': 'flex flex-col text-center justify-center items-center mb-0 mt-200',
+  'mobileW1H2': 'flex flex-col text-center justify-center items-center mb-0 mt-280',
   'mobileW1H3': 'flex flex-col text-center justify-center items-center mb-0 mt-220',
   'mobileW1H4': 'flex flex-col text-center justify-center items-center mb-0 mt-220',
 
@@ -262,7 +262,7 @@ const page8: Record<string, string> = {
 
 
     'mobileW1H1': 'mt-350',
-  'mobileW1H2': ' mt-300',
+  'mobileW1H2': ' mt-350',
   'mobileW1H3': ' mt-290',
   'mobileW1H4': ' mt-290',
 
@@ -300,7 +300,7 @@ const page8: Record<string, string> = {
   '2xlH3': 'mt-220',
   '3xl': 'mt-20',
   '3xlH1': 'mt-20',
-  '3xlH2': 'mt-20',
+  '3xlH2': 'mt-80',
   '3xlH3': 'mt-20',
   '4xl': 'mt-20',
   '4xlH1': 'mt-20',

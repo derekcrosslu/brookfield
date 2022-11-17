@@ -126,7 +126,7 @@ const App = () => {
         // className='flex flex-col justify-center items-center mt-100 md:mt-120 lg:mt-140 xl:mt-180 2xl:mt-180  3xl:mt-140   4xl:mt-40 px-2'
         className={twStyles('App','page4').plusHeight}
         // sticky={{ start: 3, end: 4 }}
-       style={{ height: 'fit-content' }}
+      style={{ height: '450px' }}
       >
 
 <ThirdFrame />
@@ -154,7 +154,7 @@ const App = () => {
       <ParallaxLayer
         offset={2.2}
         speed={0}
-        style={{ height: '450px' }}
+      style={{ height: 'fit-content' }}
         // className='flex  text-center justify-center items-center mt-80 md:mt-100 lg:mt-140 xl:mt-210  2xl:mt-200   3xl:mt-160 4xl:mt-20'
         className={twStyles('App','page6').plusHeight}
       >
