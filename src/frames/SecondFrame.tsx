@@ -35,7 +35,7 @@ export const SecondFrame = () => {
                   </div>
               </div>
               
-              <div className=' min-w-40 md:max-w-9777 mt-10 '>
+              <div className=' min-w-40 sm:max-w-40 mt-10 '>
                 <Opacity bottomOffset='400px' topOffset='-400px'>
                     <Animation3 />
                 </Opacity>

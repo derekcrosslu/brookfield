@@ -77,7 +77,7 @@ const App = () => {
   return (
   
 <Parallax
-      pages={8}
+      pages={14}
       style={{ top: '0', left: '0', backgroundColor: '#002A4E', display:'flex' }}
     >
 {/* Page 1 */}

@@ -33,7 +33,7 @@ export const ThirdFrame = () => {
   
   return (
     <div className='flex flex-col md:flex-row w-full md:w-auto items-center'>
-      <Opacity  twstyles=' mt-10 md:-mt-28  md:mr-10 min-w-40  md:min-w-9777'  bottomOffset='400px' topOffset='-400px'>
+      <Opacity  twstyles=' mt-10 md:-mt-28  md:mr-10 min-w-40  md:min-w-9777 sm:max-w-40'  bottomOffset='400px' topOffset='-400px'>
       <Animation4 />
       </Opacity>
       <div className='flex flex-col -mt-10 md:mt-0  md:w-97 w-full'>
