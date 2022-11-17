@@ -15,7 +15,7 @@ export const FourthFrame = ({mobileVersion}:{mobileVersion:boolean}) => {
                   <div className='md:text-base text-ms font-mediumplus lg:font-normal lg:text-lg'>
                     Reinvest the bulk of its earnings for a steady return with a long-term horizon in mind
                   </div>
-                  <div className='md:text-base text-ms lg:text-lg ml-16 mt-3'>
+                  <div className='md:text-base text-ms lg:text-lg ml-4  lg:ml-10 mt-3'>
                     <li>Retains / Reinvests the bulk of its earnings</li>
                   </div>
         </div>

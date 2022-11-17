@@ -1,6 +1,6 @@
 # Brookfield
 
-## Instructions to install and publish the project
+## Instructions to install and publish the project via your computer command line
 
 
 ## Download
@@ -17,7 +17,7 @@ yarn
 ```
 
 ---
-## Open to your computer browser
+## How to view and open a local copy to your computer browser
 ```
 yarn start
 
@@ -27,7 +27,7 @@ yarn start
 ## Build process (not available)
 ```
 yarn build
-# or `npm run build`
+
 ```
 
 ---
